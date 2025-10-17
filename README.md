@@ -36,7 +36,7 @@ _Scanner Screen → Product List → Product Details_
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/yuka-clone-expo.git
+git clone https://github.com/faridrehila/yuka-clone-expo.git
 cd yuka-clone-expo
 npm install
 ```
